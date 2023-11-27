@@ -1,0 +1,26 @@
+<style>
+       .left-align {
+        float: left;
+        margin: 10px;
+       }
+       
+       .right-align{
+        float: right;
+        margin: 10px;
+       }
+       .centre-align{
+        align-items: center;
+        margin:15px;
+       }
+
+       .rounded {
+        border-radius: 53%;
+       }
+       .bordered {
+        border: 2px solid black;
+        }
+    
+        .shadowed {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+</style>
